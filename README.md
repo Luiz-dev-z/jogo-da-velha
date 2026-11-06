@@ -31,10 +31,10 @@ O jogo é executado no terminal e permite que dois jogadores disputem uma partid
 - Validação de entradas.
 
 ## Como executar
-1- Clone ou baixe este repositório.
-2- Abra o arquivo do projeto em uma IDE ou compilador C.
-3- Compile o código.
-4- Execute o programa pelo terminal.
+1. Clone ou baixe este repositório.
+2. Abra o arquivo do projeto em uma IDE ou compilador C.
+3. Compile o código.
+4. Execute o programa pelo terminal.
 
 ## Objetivo
 Praticar conceitos fundamentais da linguagem C por meio da construção de um jogo interativo, trabalhando principalmente com matrizes, estruturas de controle e validação de dados.
